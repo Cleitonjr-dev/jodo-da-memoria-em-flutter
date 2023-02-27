@@ -12,7 +12,6 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-
     return MaterialApp(
       title: 'Round 6 Memory',
       debugShowCheckedModeBanner: false,
@@ -22,3 +21,4 @@ class App extends StatelessWidget {
   }
 }
 
+// minuto 49:28 Jogo da Memória em Flutter: Game Interface e Tema #1
